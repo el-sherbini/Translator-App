@@ -1,6 +1,5 @@
 # Translator-App
 > Translator app built with Vue.js, Tailwind CSS and [__Deep Translate API__](https://rapidapi.com/gatzuma/api/deep-translate1).
-> Live demo [_here_](https://bre.is/jCgea7Du).
 
 ## Installation and Setup Instructions
 
